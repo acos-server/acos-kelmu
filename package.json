@@ -1,10 +1,9 @@
 {
   "name": "acos-kelmu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for Kelmu annotations",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Teemu Sirkiä",
   "license": "MIT",
   "repository": {
